@@ -7,4 +7,4 @@ def main(list01):
         int: return answer
     """
     return list01.count(0)
-print(main([0,0,0,0,0,0,0,0]))
+print(main([0,0,0,1,0,0,0,0]))
