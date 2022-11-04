@@ -7,4 +7,4 @@ def main(fruits):
         int: return answer
     """
     return fruits.count("kiwi")
-print(main(['kiwi','apple','pear','banana']))
+print(main(['kiwi','kiwi','kiwi','kiwi']))
